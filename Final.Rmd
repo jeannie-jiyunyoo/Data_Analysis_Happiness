@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis on the Most Significant Factor of Happiness Around the Globe"
-author: Jiyun Yoo [1006219682]
+author: Jiyun Yoo
 date: "4/20/2022"
 output:
   pdf_document:
